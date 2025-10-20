@@ -1,0 +1,19 @@
+{
+  "_": "This is a grom_maker/stubbify config file.",
+
+
+
+  "required_libs": [{
+    "file_name": "libminuitwrp.so",
+    "name": "miniui",
+
+    "generate_stubs": true,
+
+    "required": true
+
+  }]
+
+
+
+
+}
